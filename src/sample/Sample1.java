@@ -20,6 +20,7 @@ public class Sample1 {
 			d.navigate().forward();
 			//i++;
 			d.close();
+			d.quit();
 			
 		}
 
