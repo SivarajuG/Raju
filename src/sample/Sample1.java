@@ -19,7 +19,8 @@ public class Sample1 {
 			d.navigate().back();
 			d.navigate().forward();
 			//i++;
-			d.quit();
+			d.close();
+			
 		}
 
 	}
